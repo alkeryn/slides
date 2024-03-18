@@ -131,10 +131,11 @@ padding-top: 0.5em;
 [click] Ils peuvent aussi générer de la fatigue, non seulement physyque car la personne répete beaucoup de geste,
 mentals, car certaines pensées intrusives peuvent être épuisante ainsi que des manques de someil, caractérisélles TOCs peuvent retarder l'arrivée au lit (par example devoir retourner 10 fois à la salle de bains, ou refaire le lis 5 fois).
 
-[click] Ils peuvent négativement affectés la santée, par example prise de poids car la personne se sent
+[click] Ils peuvent egalement avoir un effet négatif sur lasantée, par example prise de poids car la personne se sent
 obligé de manger ou de boire trop, ou alors de trop où pas assez se doucher, se brosser les dents etc...
 
-[click] Tous ces facteurs peuvent contribué à une depression
+[click] Tous ces facteurs peuvent contribué à une depression et peuvent réduire considérablement la qualitée
+de vie des personnes atteintes
 
 -->
 ---
@@ -167,6 +168,26 @@ ul {
 </style>
 
 
+<!-- 
+Les traitements courants:
+
+[click] On à la thérapie comportementale et cognitive
+
+[click] il y à aussi la thérapie médicamenteuse, principalement des inihibiteur séléctifs
+de la recapture de la sérotonine, malheureusement les effets secondaires peuvent être lourds
+
+[click] on à égallement la thérapie de groupe
+
+[click] la thérapie familiale
+
+[click] des applications de santé mentale [click] et des techniques de relaxations peuvent aussi aider
+
+[click] il y à aussi la stimulation transcrânienne mais l'éfficacité est limitée
+
+[click] dernièrement, on à la Psychochirurgie, ou l'instalation d'un apareil qui stimule certaines zones éléctriquement, mais l'éfficacité est égallement limitée
+
+
+-->
 ---
 layout: image-left
 image: "/images/prozac.jpg"
@@ -179,20 +200,13 @@ Principalement les SSRI / ISRS
 - Les ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) ou SSRI (Selective Serotonin Reuptake Inhibitors) en anglais sont souvent le traitement le plus utilisé. {v-click}
 - Leur mécanisme d'action, comme leur nom l'indique, vise le système sérotoninergique. {v-click}
 - Le même traitement est également souvent utilisé contre la dépréssion. {v-click}
-- Sauf que les doses sont 1.5 à 2x plus élevés pour traiter les toc que la dépréssion. {v-click}
+- Sauf que les doses sont 1.5 à 2x plus élevés pour traiter les TOCs que la dépréssion. {v-click}
 
 <style>
 .grid {
 grid-template-columns: 40% auto;
 }
 </style>
-
----
-layout: cover
-background: "/images/psychelandscape.jpg"
----
-
-# Les psychédéliques, un nouveau traitement ?
 
 ---
 layout: two-cols
@@ -207,6 +221,13 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 :: right ::
 <img src="/images/braintree2.jpg" style="width: 100%; height:100%">
+
+---
+layout: cover
+background: "/images/psychelandscape.jpg"
+---
+
+# Les psychédéliques, un nouveau traitement ?
 
 ---
 ---
@@ -340,15 +361,18 @@ Ce processus de familiarisation avec le personnel a contribué à renforcer la r
 
 Une réduction marquée des symptômes du TOC de degrés variables a été observée chez tous les sujets lors d'une ou plusieurs des sessions de test (23% à 100% de diminution du score YBOCS). Aucun effet significatif de la dose n'a été observé, mais une amélioration généralement durable au-delà du point de 24 heures a été notée.
 
+<v-click at="2">
+
 # Conclusion:
 
 <span></span>
 
 Dans un environnement clinique contrôlé, le psilocybine a été utilisé en toute sécurité chez des sujets atteints de TOC et a été associé à des réductions aiguës des symptômes fondamentaux du TOC chez plusieurs sujets. Ces données justifient une exploration plus approfondie dans des études futures impliquant une méthodologie traditionnelle en double aveugle, randomisée, contrôlée par placebo.
+</v-click>
 
 
 <!--
-Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
+[click] Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
 
 Il est possible que la dose ne soit pas si importante
 -->
@@ -358,14 +382,18 @@ Il est possible que la dose ne soit pas si importante
 
 # Une enquête en ligne
 
+<v-clicks>
+
 - Enquête en ligne rétrospective
 - Échantillon de 174 participants
+- Seul les psychédéliques classiques signalés comme efficaces
 - Psychédéliques classiques efficaces pour réduire les symptômes du TOC
-- Réduction des symptômes associée à l'intensité des effets aigus et à la dose
 - Persistance de l'effet thérapeutique de quelques semaines à plusieurs mois
-- Aucun facteur prédictif clair pour la persistance de l'effet.
-- Occurrence et fréquence des prises ultérieures limitées et prédites par l'efficacité et la persistance de l'effet
-- Fréquence des prises ultérieures influencée par l'ampleur et la durée de l'effet thérapeutique.
+- Réduction des symptômes associée à l'intensité des effets aigus et à la dose
+- Fréquence des prises ultérieures limitées et prédites par l'efficacité et la persistance de l'effet
+- Potentiel thérapeutique significatif suggéré
+
+</v-clicks>
 
 
 <p align="right">
@@ -373,11 +401,16 @@ Il est possible que la dose ne soit pas si importante
 </p>
 
 <!--
-Pour mieux comprendre comment les psychédéliques peuvent aider avec le trouble obsessionnel-compulsif, une enquête en ligne a été menée
-Avec 174 réponses, l'étude s'est penchée spécifiquement sur les effets des psychédéliques traditionnels
-elle a mis en évidence que, parmi les drogues psychoactives, seuls les psychédéliques classiques ont été signalés comme efficaces dans la réduction des symptômes du TOC
+[click] Pour mieux comprendre comment les psychédéliques peuvent aider avec le trouble obsessionnel-compulsif, une enquête en ligne a été menée
 
-Une corrélation a été observée entre l'intensité des effets aigus, la dose administrée, et la réduction des symptômes, avec des effets thérapeutiques dont la persistance variait grandement, allant de quelques semaines à plusieurs mois. L'ampleur et la durée de ces effets thérapeutiques semblaient influencer la décision des participants de poursuivre la prise de ces substances. Ces observations suggèrent un potentiel significatif des psychédéliques classiques dans le traitement du TOC, soulignant la nécessité de poursuivre les recherches.
+[click] Avec 174 réponses, l'étude s'est penchée spécifiquement sur les effets des psychédéliques traditionnels.
+
+[click] Elle a mis en évidence que, parmi les drogues psychoactives, seuls les psychédéliques classiques ont été signalés comme efficaces dans la réduction des symptômes du TOC
+
+[click] Une corrélation a été observée entre l'intensité des effets aigus, la dose administrée, et la réduction des symptômes, [click] avec des effets thérapeutiques dont la persistance variait grandement, allant de quelques semaines à plusieurs mois [click] et dépendait en partie de l'intensité de l'experience. 
+
+[click] L'ampleur et la durée de ces effets thérapeutiques semblaient influencer la décision des participants de poursuivre la prise de ces substances. 
+[click] Ces observations suggèrent un potentiel significatif des psychédéliques classiques dans le traitement du TOC, soulignant la nécessité de poursuivre les recherches.
 -->
 
 ---
@@ -433,11 +466,16 @@ Deux études en doubles aveugles
 
 "Sécurité, tolérabilité, et effets cliniques et neuronaux d'une dose unique de psilocybine dans le trouble obsessionnel-compulsif : protocole pour un essai randomisé, en double aveugle, contrôlé par placebo, sans croisement."<br>
 "Sécurité, faisabilité, tolérance et effets cliniques du dosage répété de psilocybine combiné à un soutien non directif dans le traitement du trouble obsessionnel-compulsif : protocole pour un essai randomisé, contrôlé par liste d'attente avec évaluations en aveugle."
-- une sur une dose
-- une sur dosage répétés (2 doses)
+
+<v-clicks>
+
+- Une sur dosage répétés (2 doses)
 - 30 participants
-- en cours
-- les participants du groupe placebo de la deuxième études ont la possibilité de revenir pour recevoir une dose (0.25mg/kg)
+- Une sur une dose
+- Les deux sont en cours
+- Les participants du groupe placebo de la deuxième études ont la possibilité de revenir pour recevoir une dose (0.25mg/kg)
+
+</v-clicks>
 
 <p align="right">
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10803438/ <br>
@@ -446,9 +484,12 @@ Deux études en doubles aveugles
 
 <!--
 Pour finir, j'aimerai présenter deux protocoles pour deux futures études
-Ces deux études explorent l'utilisation de la psilocybine, dans le traitement des trouble TOCs résistant aux thérapies traditionnelles. La première étude teste deux doses de psilocybine avec un soutien psychologique non-directif sur 30 participants, envisageant une augmentation de dose basée sur la réponse clinique, et vise à évaluer la sécurité, la tolérabilité et l'efficacité sur les symptômes du TOC, ainsi que les mécanismes psychologiques impliqués. La deuxième étude, également avec 30 participants, utilise un design randomisé, double aveugle, contrôlé par placebo pour examiner l'impact d'une seule dose unique de psilocybine sur les symptômes du TOC, intégrant un suivi de 12 semaines et des évaluations par des évaluateurs indépendants. Cette recherche comprend également l'analyse des données d'imagerie cérébrale pour explorer les effets neuronaux. Les deux études représentent des tentatives importantes pour comprendre et potentiellement offrir de nouvelles voies de traitement pour le TOC réfractaire, mettant en lumière la psilocybine comme option thérapeutique prometteuse avec des implications pour les mécanismes de traitement sous-jacents et la pratique clinique future.
+Ces deux études explorent l'utilisation de la psilocybine, dans le traitement des trouble TOCs résistant aux thérapies traditionnelles. 
+[click] La première étude teste deux doses de psilocybine avec un soutien psychologique non-directif 
+[click]sur 30 participants, envisageant une augmentation de dose basée sur la réponse clinique, et vise à évaluer la sécurité, la tolérabilité et l'efficacité sur les symptômes du TOC, ainsi que les mécanismes psychologiques impliqués. 
+[click] La deuxième étude, également avec 30 participants, utilise un design randomisé, double aveugle, contrôlé par placebo pour examiner l'impact d'une seule dose unique de psilocybine sur les symptômes du TOC, intégrant un suivi de 12 semaines et des évaluations par des évaluateurs indépendants. Cette recherche comprend également l'analyse des données d'imagerie cérébrale pour explorer les effets neuronaux. Les deux études représentent des tentatives importantes pour comprendre et potentiellement offrir de nouvelles voies de traitement pour le TOC réfractaire, mettant en lumière la psilocybine comme option thérapeutique prometteuse avec des implications pour les mécanismes de traitement sous-jacents et la pratique clinique future.
 
-Dans la deuxième étude participants assignés au groupe placebo ont la possibilité de revenir pour recevoir une dose à étiquette ouverte de psilocybine (0.25mg/kg).
+[click] Dans la deuxième étude participants assignés au groupe placebo ont la possibilité de revenir pour recevoir une dose à étiquette ouverte de psilocybine (0.25mg/kg).
 -->
 
 ---
