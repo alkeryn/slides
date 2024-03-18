@@ -237,6 +237,8 @@ Tout au long de l'étude, les patients ont été évalués régulièrement pour 
 
 Pendant les sessions, les patients ont également eu l'occasion de rencontrer et de connaître le personnel médical et les accompagnateurs. Cela visait à établir un lien de confiance et de soutien, ce qui est crucial pour créer un environnement sûr et confortable pendant l'expérience psychédélique. Les patients ont pu discuter de leurs préoccupations, poser des questions et exprimer leurs sentiments avant, pendant et après les sessions.
 
+Ce processus de familiarisation avec le personnel a contribué à renforcer la relation thérapeutique et à favoriser un sentiment de sécurité et de bienveillance tout au long de l'étude.
+
 -->
 
 ---
@@ -253,3 +255,8 @@ Une réduction marquée des symptômes du TOC de degrés variables a été obser
 <span></span>
 
 Dans un environnement clinique contrôlé, le psilocybine a été utilisé en toute sécurité chez des sujets atteints de TOC et a été associé à des réductions aiguës des symptômes fondamentaux du TOC chez plusieurs sujets. Ces données justifient une exploration plus approfondie dans des études futures impliquant une méthodologie traditionnelle en double aveugle, randomisée, contrôlée par placebo.
+
+
+<!--
+Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
+-->
