@@ -339,7 +339,6 @@ Dans un environnement clinique contrôlé, le psilocybine a été utilisé en to
 
 
 <!--
-[click]
 Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
 
 Il est possible que la dose ne soit pas si importante
@@ -464,7 +463,7 @@ Dans la deuxième étude participants assignés au groupe placebo ont la possibi
 ---
 layout: cover
 class: text-center
-background: "/images/pencils.jpg"
+background: "/images/landscape.jpg"
 ---
 
 # Merci !
