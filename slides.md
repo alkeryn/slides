@@ -94,10 +94,10 @@ layout: two-cols
     - Certaines compulsions, comme l'achat compulsif, peuvent mener à des difficultés financières.
 - Fatigue {v-click}
     - La gestion constante des obsessions et compulsions peut être épuisante.
-- Dépression {v-click}
-    - Les luttes constantes avec les TOCs peuvent contribuer à la dépression.
 - Sentiment de perte de contrôle {v-click}
     - Le sentiment d'être contrôlé par les rituels plutôt que d'avoir le contrôle sur sa propre vie.
+- Dépression {v-click}
+    - Les luttes constantes avec les TOCs peuvent contribuer à la dépression.
 <style>
 ul {
     font-size: 0.9em;
@@ -108,8 +108,32 @@ padding-top: 0.5em;
 }
 </style>
 
+<!--
+[click] les TOCs peuvent générer beaucoup d'anxiété
+
+[click] ils peuvent aussi faire perdre beaucoup de temps et desfois même mettre en retard ou faire louper un train
+
+[click] La honte ou la peur d'être incompris peut mener à l'isolement
+
+[click] Ils peuvent aussi causer des problèmes relationels
+
+[click] La concentration et les performances peuvent être afféctés
+
+[click] Des domages physiques de soi oû de ses affaires sont aussi possible
+
+[click] certaines compulsions peuvent négativement affecter les finances
+
+[click] Ils peuvent aussi générer de la fatigue, non seulement physyque car la personne répete beaucoup de geste,
+mentale, car certaines pensées intrusives peuvent être épuisante ainsi que des manques de someil, caractérisélles TOCs peuvent retarder l'arrivée au lit (par example devoir retourner 10 fois à la salle de bains, ou refaire le lis 5 fois).
+
+[click] Les personnes affectés peuvent avoir l'impression de ne pas controller leur esprit oû leurs action
+
+[click] Tous ces facteurs peuvent contribué à une depression
+
+-->
 ---
 layout: two-cols
+
 ---
 # Les traitements courrant
 - Thérapie comportementale et cognitive (TCC) {v-click}
