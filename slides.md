@@ -83,6 +83,8 @@ layout: two-cols
     - La honte ou la peur de l'incompréhension peut mener à l'isolement.
 - Problèmes relationnels {v-click}
     - Les TOCs peuvent peser sur les relations personnelles et familiales.
+- Sentiment de perte de contrôle {v-click}
+    - Le sentiment d'être contrôlé par les rituels plutôt que d'avoir le contrôle sur sa propre vie.
 
 :: right ::
 
@@ -94,13 +96,13 @@ layout: two-cols
     - Certaines compulsions, comme l'achat compulsif, peuvent mener à des difficultés financières.
 - Fatigue {v-click}
     - La gestion constante des obsessions et compulsions peut être épuisante.
-- Sentiment de perte de contrôle {v-click}
-    - Le sentiment d'être contrôlé par les rituels plutôt que d'avoir le contrôle sur sa propre vie.
+- Problèmes de santée {v-click}
+    - Manque de someil, Prise de poids, hygiene
 - Dépression {v-click}
     - Les luttes constantes avec les TOCs peuvent contribuer à la dépression.
 <style>
 ul {
-    font-size: 0.9em;
+    font-size: 0.8em;
 }
 .slidev-page {
 margin-top: 0.5em;
@@ -117,6 +119,9 @@ padding-top: 0.5em;
 
 [click] Ils peuvent aussi causer des problèmes relationels
 
+[click] Les personnes affectés peuvent avoir l'impression de ne pas controller leur esprit oû leurs action
+
+
 [click] La concentration et les performances peuvent être afféctés
 
 [click] Des domages physiques de soi oû de ses affaires sont aussi possible
@@ -124,9 +129,10 @@ padding-top: 0.5em;
 [click] certaines compulsions peuvent négativement affecter les finances
 
 [click] Ils peuvent aussi générer de la fatigue, non seulement physyque car la personne répete beaucoup de geste,
-mentale, car certaines pensées intrusives peuvent être épuisante ainsi que des manques de someil, caractérisélles TOCs peuvent retarder l'arrivée au lit (par example devoir retourner 10 fois à la salle de bains, ou refaire le lis 5 fois).
+mentals, car certaines pensées intrusives peuvent être épuisante ainsi que des manques de someil, caractérisélles TOCs peuvent retarder l'arrivée au lit (par example devoir retourner 10 fois à la salle de bains, ou refaire le lis 5 fois).
 
-[click] Les personnes affectés peuvent avoir l'impression de ne pas controller leur esprit oû leurs action
+[click] Ils peuvent négativement affectés la santée, par example prise de poids car la personne se sent
+obligé de manger ou de boire trop, ou alors de trop où pas assez se doucher, se brosser les dents etc...
 
 [click] Tous ces facteurs peuvent contribué à une depression
 
@@ -277,8 +283,8 @@ Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a comme
 
 <span></span>
 - Durée des sessions : environ 8 heures {v-click}
-- 9 patients {v-click}
 - Environnement contrôlé {v-click}
+- 9 patients {v-click}
 - Lunettes opaques et musique standardisée pour favoriser l'introspection {v-click}
 - Interactions sociales limitées {v-click}
 - Surveillés par des accompagnateurs formés {v-click}
@@ -298,13 +304,19 @@ font-size: 0.8em;
 
 <!--
 
-[click] Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. [click:2] Les 9 patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels [click]. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
+[click] Chaque session durait environ 8 heures [click] et se déroulait dans un environnement contrôlé.
+[click] Les 9 patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels [click]. De la musique standardisée était diffusée pour accompagner l'expérience.
 
- Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin. Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
+[click] Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
 
-Tout au long de l'étude, les patients ont été évalués régulièrement pour suivre les effets de la psilocybine sur leur état mental et leur bien-être général.
+[click] Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin.
+[click] Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
 
-Pendant les sessions, les patients ont également eu l'occasion de rencontrer et de connaître le personnel médical et les accompagnateurs. Cela visait à établir un lien de confiance et de soutien, ce qui est crucial pour créer un environnement sûr et confortable pendant l'expérience psychédélique. Les patients ont pu discuter de leurs préoccupations, poser des questions et exprimer leurs sentiments avant, pendant et après les sessions.
+[click] Tout au long de l'étude, les patients ont été évalués régulièrement pour suivre les effets de la psilocybine sur leur état mental et leur bien-être général.
+
+[click] Pendant les sessions, les patients ont également eu l'occasion de rencontrer et de connaître le personnel médical et les accompagnateurs. Cela visait à établir un lien de confiance et de soutien, ce qui est crucial pour créer un environnement sûr et confortable pendant l'expérience psychédélique.
+
+[click]Les patients ont pu discuter de leurs préoccupations, poser des questions et exprimer leurs sentiments avant, pendant et après les sessions.
 
 Ce processus de familiarisation avec le personnel a contribué à renforcer la relation thérapeutique et à favoriser un sentiment de sécurité et de bienveillance tout au long de l'étude.
 
