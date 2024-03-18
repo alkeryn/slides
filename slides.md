@@ -189,6 +189,10 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 - Importance : Potentiel pour les cas résistants aux traitements traditionnels. {v-click}
 - Potentiel pour d'autre pathologies {v-click}
 
+<p align="right">
+- Heliyon 8 (2022) e12135
+</p>
+
 <!--
 Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majors ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
 
@@ -220,6 +224,7 @@ Neuf sujets atteints de TOC, définis par le DSM-IV, sans autre trouble psychiat
 </v-click>
 
 <!--
+[contexte]
 Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a commencé à utiliser des champignons psilocybes à 18 ans et a remarqué que pendant les intoxications, ses symptômes de TOC disparaissaient, une utilisation répétée a entraîné une tolérance aux effets psychédéliques, mais il a continué à ressentir un soulagement de ses symptômes malgré l'absence d'un "high".
 -->
 
@@ -277,6 +282,7 @@ Dans un environnement clinique contrôlé, le psilocybine a été utilisé en to
 
 
 <!--
+[resultat]
 Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
 
 Il est possible que la dose ne soit pas si importante
