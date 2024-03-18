@@ -189,9 +189,13 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 - Importance : Potentiel pour les cas résistants aux traitements traditionnels. {v-click}
 - Potentiel pour d'autre pathologies {v-click}
 
+<v-click>
 <p align="right">
-- Heliyon 8 (2022) e12135
+- Heliyon 8 (2022) e12135 <br>
+- https://doi.org/10.1080/02791072.2020.1849879  <br>
+- http://dx.doi.org/10.1080/02791072.2014.963754 
 </p>
+</v-click>
 
 <!--
 Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majors ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
@@ -233,6 +237,7 @@ Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a comme
 # Procédure:
 
 <span></span>
+- 9 patients {v-click}
 - Durée des sessions : environ 8 heures {v-click}
 - Environnement contrôlé {v-click}
 - Lunettes opaques et musique standardisée pour favoriser l'introspection {v-click}
@@ -254,7 +259,7 @@ font-size: 0.8em;
 
 <!--
 
-Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. Les patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
+Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. Les 9 patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
 
  Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin. Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
 
