@@ -211,7 +211,12 @@ Ces trois cas soulignent le potentiel de la psilocybine comme traitement complé
 ---
 ---
 
-![]("./images/graphs/red1.png")
+<img src="images/graphs/red1.png" style="position: floating; width: 100%">
+
+---
+---
+
+<img src="images/graphs/red2.png" style="position: floating; height: 100%">
 
 ---
 ---
