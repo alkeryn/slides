@@ -179,8 +179,6 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 <img src="images/braintree.jpg" style="width: 100%; height:100%">
 
 ---
----
-
 
 # Etude 1:
 Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
@@ -199,6 +197,10 @@ Des rapports anecdotiques suggèrent que les agents psychédéliques peuvent sou
 Neuf sujets atteints de TOC, définis par le DSM-IV, sans autre trouble psychiatrique majeur actuel, ont participé à jusqu'à 4 expositions uniques à des doses de psilocybine allant de sub-hallucinogènes à indiscutablement hallucinogènes. Les doses basse (100 µg/kg), moyenne (200 µg/kg), et haute (300 µg/kg) ont été assignées dans cet ordre, et une dose très basse (25 µg/kg) a été insérée aléatoirement et en double aveugle à tout moment après la première dose. L'étude s'est déroulée de novembre 2001 à novembre 2004.
 
 </v-click>
+
+<!--
+Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a commencé à utiliser des champignons psilocybes à 18 ans et a remarqué que pendant les intoxications, ses symptômes de TOC disparaissaient, une utilisation répétée a entraîné une tolérance aux effets psychédéliques, mais il a continué à ressentir un soulagement de ses symptômes malgré l'absence d'un "high".
+-->
 
 ---
 ---
@@ -227,7 +229,6 @@ font-size: 0.8em;
 
 <!--
 
-[click]
 Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. Les patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
 
  Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin. Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
