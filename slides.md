@@ -211,13 +211,13 @@ Ces trois cas soulignent le potentiel de la psilocybine comme traitement complé
 ---
 layout: image
 image: "images/graphs/red1.png"
-backgroundSize: 100% 100%
+backgroundSize: contain
 ---
 
 ---
 layout: image
 image: "images/graphs/red2.png"
-backgroundSize: 90%
+backgroundSize: contain
 ---
 
 ---
@@ -335,15 +335,48 @@ elle a mis en évidence que, parmi les drogues psychoactives, seuls les psychéd
 
 Une corrélation a été observée entre l'intensité des effets aigus, la dose administrée, et la réduction des symptômes, avec des effets thérapeutiques dont la persistance variait grandement, allant de quelques semaines à plusieurs mois. L'ampleur et la durée de ces effets thérapeutiques semblaient influencer la décision des participants de poursuivre la prise de ces substances. Ces observations suggèrent un potentiel significatif des psychédéliques classiques dans le traitement du TOC, soulignant la nécessité de poursuivre les recherches.
 -->
+
+---
+layout: image
+image: "images/graphs/survey0.png"
+backgroundSize: contain
+---
+<!--
+utilisateurs déclarant la substance comme la plus impactante
+utilisateurs déclarent une autre substance come la plus impactante
+utilisateurs déclarant un impact pour aucune substance
+-->
+---
+layout: image
+image: "images/graphs/survey1.png"
+backgroundSize: contain
+---
+<!--
+A: pourcentage des participants affirmant conaitre la dose
+B: dose en psilocybine
+C: dose en LSD
+D: dose et effets
+-->
+---
+layout: image
+image: "images/graphs/survey2.png"
+backgroundSize: contain
+---
+---
+layout: image
+image: "images/graphs/survey3.png"
+backgroundSize: contain
+---
+
 ---
 ---
 
 # La suite ?
 
-## deux études en doubles aveugles
+Deux études en doubles aveugles
 
-- "Sécurité, tolérabilité, et effets cliniques et neuronaux d'une dose unique de psilocybine dans le trouble obsessionnel-compulsif : protocole pour un essai randomisé, en double aveugle, contrôlé par placebo, sans croisement."
-- "Sécurité, faisabilité, tolérance et effets cliniques du dosage répété de psilocybine combiné à un soutien non directif dans le traitement du trouble obsessionnel-compulsif : protocole pour un essai randomisé, contrôlé par liste d'attente avec évaluations en aveugle."
+"Sécurité, tolérabilité, et effets cliniques et neuronaux d'une dose unique de psilocybine dans le trouble obsessionnel-compulsif : protocole pour un essai randomisé, en double aveugle, contrôlé par placebo, sans croisement."<br>
+"Sécurité, faisabilité, tolérance et effets cliniques du dosage répété de psilocybine combiné à un soutien non directif dans le traitement du trouble obsessionnel-compulsif : protocole pour un essai randomisé, contrôlé par liste d'attente avec évaluations en aveugle."
 - une sur une dose
 - une sur dosage répétés (2 doses)
 - 30 participants
