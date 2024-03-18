@@ -44,7 +44,7 @@ Le trouble obsessionnel compulsif (abrégé en l'acronyme TOC) est un trouble ps
 mdc: true
 ---
 
-# Quelques examples
+# Quelques examples:
 
 - Lavage excessif des mains {v-click}
     - vouloir se laver les mains à chaques fois que l'on touche quelque chose
@@ -242,7 +242,7 @@ Neuf sujets atteints de TOC, définis par le DSM-IV, sans autre trouble psychiat
 </v-click>
 
 <!--
-[contexte]
+[click]
 Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a commencé à utiliser des champignons psilocybes à 18 ans et a remarqué que pendant les intoxications, ses symptômes de TOC disparaissaient, une utilisation répétée a entraîné une tolérance aux effets psychédéliques, mais il a continué à ressentir un soulagement de ses symptômes malgré l'absence d'un "high".
 -->
 
@@ -303,7 +303,7 @@ Dans un environnement clinique contrôlé, le psilocybine a été utilisé en to
 
 
 <!--
-[resultat]
+[click]
 Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
 
 Il est possible que la dose ne soit pas si importante
@@ -405,4 +405,21 @@ Pour finir, j'aimerai présenter deux protocoles pour deux futures études
 Ces deux études explorent l'utilisation de la psilocybine, dans le traitement des trouble TOCs résistant aux thérapies traditionnelles. La première étude teste deux doses de psilocybine avec un soutien psychologique non-directif sur 30 participants, envisageant une augmentation de dose basée sur la réponse clinique, et vise à évaluer la sécurité, la tolérabilité et l'efficacité sur les symptômes du TOC, ainsi que les mécanismes psychologiques impliqués. La deuxième étude, également avec 30 participants, utilise un design randomisé, double aveugle, contrôlé par placebo pour examiner l'impact d'une seule dose unique de psilocybine sur les symptômes du TOC, intégrant un suivi de 12 semaines et des évaluations par des évaluateurs indépendants. Cette recherche comprend également l'analyse des données d'imagerie cérébrale pour explorer les effets neuronaux. Les deux études représentent des tentatives importantes pour comprendre et potentiellement offrir de nouvelles voies de traitement pour le TOC réfractaire, mettant en lumière la psilocybine comme option thérapeutique prometteuse avec des implications pour les mécanismes de traitement sous-jacents et la pratique clinique future.
 
 Dans la deuxième étude participants assignés au groupe placebo ont la possibilité de revenir pour recevoir une dose à étiquette ouverte de psilocybine (0.25mg/kg).
+-->
+
+---
+---
+# Conclusion:
+
+<span></span>
+
+- Les psychédéliques ont un potentiel pour traiter les TOCs {v-click}
+- Des études controllés plus grande sont prévu (n=9 ce n'est pas beaucoup) {v-click}
+- Un traitement possiblement meilleur pour le patient que les traitements médicamenteux {v-click}
+- Un traitement qui peut nous permettre d'aider plus de personnes {v-click}
+
+<!--
+[click] les rapports anédoctiques suggèrent que les psychédéliques ont un potentiel pour traiter les tocs
+[click:2] Les effets secondaires des psychédéliques sont négligeable surtout lorsque comparé aux traitements actuels
+[click] Un traitement qui à du potentiel pour aider des patiens qui ont déjà tout essayés en vain
 -->
