@@ -138,6 +138,8 @@ ul {
 
 
 ---
+layout: image-left
+image: "./images/prozac.jpg"
 ---
 
 # Dans le cas médicamenteux:
@@ -147,7 +149,14 @@ Principalement les SSRI / ISRS
 - Les ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) ou SSRI (Selective Serotonin Reuptake Inhibitors) en anglais sont souvent le traitement le plus utilisé. {v-click}
 - Leur mécanisme d'action, comme leur nom l'indique, vise le système sérotoninergique. {v-click}
 - Le même traitement est également souvent utilisé contre la dépréssion. {v-click}
-- Sauf que les doses sont 1.5 à 2x plus élevés pour t'aiter les toc que la dépréssion. {v-click}
+- Sauf que les doses sont 1.5 à 2x plus élevés pour traiter les toc que la dépréssion. {v-click}
+
+<style>
+.grid {
+grid-template-columns: 40% auto;
+}
+</style>
+
 ---
 layout: cover
 background: "./images/psychelandscape.jpg"
@@ -168,6 +177,7 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 :: right ::
 <img src="images/braintree.jpg" style="width: 100%; height:100%">
+
 ---
 ---
 
@@ -175,6 +185,70 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 # Etude 1:
 Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
 
-## Contexte: {v-click=1}
+<v-click>
 
-Des rapports anecdotiques suggèrent que les agents psychédéliques peuvent soulager les symptômes du trouble obsessionnel-compulsif (TOC). Cette étude en double aveugle modifiée a investigué la sécurité, la tolérabilité et les effets cliniques de la psilocybine, un agoniste puissant des récepteurs 5-HT1A et 5-HT2A/2C, chez des patients atteints de TOC. {v-click=1}
+## Contexte:
+
+Des rapports anecdotiques suggèrent que les agents psychédéliques peuvent soulager les symptômes du trouble obsessionnel-compulsif (TOC). Cette étude en double aveugle modifiée a investigué la sécurité, la tolérabilité et les effets cliniques de la psilocybine, un agoniste puissant des récepteurs 5-HT1A et 5-HT2A/2C, chez des patients atteints de TOC.
+</v-click>
+
+<v-click>
+
+## Méthode:
+
+Neuf sujets atteints de TOC, définis par le DSM-IV, sans autre trouble psychiatrique majeur actuel, ont participé à jusqu'à 4 expositions uniques à des doses de psilocybine allant de sub-hallucinogènes à indiscutablement hallucinogènes. Les doses basse (100 µg/kg), moyenne (200 µg/kg), et haute (300 µg/kg) ont été assignées dans cet ordre, et une dose très basse (25 µg/kg) a été insérée aléatoirement et en double aveugle à tout moment après la première dose. L'étude s'est déroulée de novembre 2001 à novembre 2004.
+
+</v-click>
+
+---
+---
+
+# Procédure:
+
+<span></span>
+- Durée des sessions : environ 8 heures {v-click}
+- Environnement contrôlé {v-click}
+- Lunettes opaques et musique standardisée pour favoriser l'introspection {v-click}
+- Interactions sociales limitées {v-click}
+- Surveillés par des accompagnateurs formés {v-click}
+- Admission en unité psychiatrique pour nuit d'observation après chaque session {v-click}
+- Évaluations régulières des effets de la psilocybine sur la santé mentale {v-click}
+- Rencontres avec le personnel médical pour établir un lien de confiance et de soutien {v-click}
+- Possibilité de discuter des préoccupations avant, pendant et après les sessions {v-click}
+<style>
+.slidev-page {
+margin-bottom: 0.5em;
+padding-bottom: 0.5em;
+}
+p {
+font-size: 0.8em;
+}
+</style>
+
+<!--
+
+[click]
+Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. Les patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
+
+ Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin. Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
+
+Tout au long de l'étude, les patients ont été évalués régulièrement pour suivre les effets de la psilocybine sur leur état mental et leur bien-être général.
+
+Pendant les sessions, les patients ont également eu l'occasion de rencontrer et de connaître le personnel médical et les accompagnateurs. Cela visait à établir un lien de confiance et de soutien, ce qui est crucial pour créer un environnement sûr et confortable pendant l'expérience psychédélique. Les patients ont pu discuter de leurs préoccupations, poser des questions et exprimer leurs sentiments avant, pendant et après les sessions.
+
+-->
+
+---
+---
+
+# Résultats: 
+
+<span></span>
+
+Une réduction marquée des symptômes du TOC de degrés variables a été observée chez tous les sujets lors d'une ou plusieurs des sessions de test (23% à 100% de diminution du score YBOCS). Aucun effet significatif de la dose n'a été observé, mais une amélioration généralement durable au-delà du point de 24 heures a été notée.
+
+# Conclusion:
+
+<span></span>
+
+Dans un environnement clinique contrôlé, le psilocybine a été utilisé en toute sécurité chez des sujets atteints de TOC et a été associé à des réductions aiguës des symptômes fondamentaux du TOC chez plusieurs sujets. Ces données justifient une exploration plus approfondie dans des études futures impliquant une méthodologie traditionnelle en double aveugle, randomisée, contrôlée par placebo.
