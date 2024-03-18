@@ -107,3 +107,31 @@ margin-top: 0.5em;
 padding-top: 0.5em;
 }
 </style>
+
+---
+layout: two-cols
+---
+# Les traitements courrant
+- Thérapie comportementale et cognitive (TCC) {v-click}
+    - La TCC aide à identifier et à changer les pensées et comportements négatifs. La thérapie d'exposition et de prévention de la réponse est une forme de TCC spécifiquement efficace pour les TOCs.
+- Médicaments {v-click}
+    - Les inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) sont couramment prescrits pour aider à gérer les symptômes des TOCs. Dans certains cas, d'autres types de médicaments peuvent également être utilisés.
+- Thérapie de groupe {v-click}
+    - Partager des expériences et des stratégies de gestion avec d'autres personnes qui ont des TOCs peut être utile.
+- Thérapie familiale {v-click}
+    - Parfois, inclure la famille dans le traitement peut aider à soutenir la personne atteinte de TOCs.
+:: right :: 
+- Applications de la santé mentale {v-click}
+    - Des applications dédiées peuvent offrir un soutien supplémentaire, des rappels pour pratiquer des techniques de gestion de l'anxiété, et un suivi des progrès.
+- Techniques de relaxation et de réduction du stress {v-click}
+    - Le yoga, la méditation, et d'autres techniques de relaxation peuvent aider à gérer l'anxiété liée aux TOCs.
+- Stimulation magnétique transcrânienne (SMT) {v-click}
+    - Pour les cas résistants au traitement, la SMT peut être une option. Elle utilise des champs magnétiques pour stimuler certaines parties du cerveau.
+- Psychochirurgie {v-click}
+    - Dans des cas extrêmes et rares, lorsque les autres traitements n'ont pas fonctionné, une intervention chirurgicale peut être envisagée.
+
+<style>
+ul {
+    font-size: 0.9em;
+}
+</style>
