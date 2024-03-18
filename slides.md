@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: "./images/"
+background: "./images/trees.jpg"
 # some information about your slides, markdown enabled
 title: Les psychédéliques, un traitment possible pour les tocs ?
 info: |
@@ -135,3 +135,46 @@ ul {
     font-size: 0.9em;
 }
 </style>
+
+
+---
+---
+
+# Dans le cas médicamenteux:
+
+Principalement les SSRI / ISRS
+
+- Les ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) ou SSRI (Selective Serotonin Reuptake Inhibitors) en anglais sont souvent le traitement le plus utilisé. {v-click}
+- Leur mécanisme d'action, comme leur nom l'indique, vise le système sérotoninergique. {v-click}
+- Le même traitement est également souvent utilisé contre la dépréssion. {v-click}
+- Sauf que les doses sont 1.5 à 2x plus élevés pour t'aiter les toc que la dépréssion. {v-click}
+---
+layout: cover
+background: "./images/psychelandscape.jpg"
+---
+
+# Les psychédéliques, un nouveau traitement ?
+
+---
+layout: two-cols
+image: "./images/braintree.jpg"
+---
+
+# Un paralèle intéréssant ?
+- Le méchanisme d'action principal des psychédélique classiques (Psilocybine, LSD, DMT, Méscaline) 
+repose sur leur interaction avec le système sérotoninergique du cerveau.\
+Plus précisément, ces substances agissent en se liant principalement aux récepteurs 5-HT2A de la sérotonine.
+
+
+:: right ::
+<img src="images/braintree.jpg" style="width: 100%; height:100%">
+---
+---
+
+
+# Etude 1:
+Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
+
+## Contexte: {v-click=1}
+
+Des rapports anecdotiques suggèrent que les agents psychédéliques peuvent soulager les symptômes du trouble obsessionnel-compulsif (TOC). Cette étude en double aveugle modifiée a investigué la sécurité, la tolérabilité et les effets cliniques de la psilocybine, un agoniste puissant des récepteurs 5-HT1A et 5-HT2A/2C, chez des patients atteints de TOC. {v-click=1}
