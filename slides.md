@@ -179,6 +179,7 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 <img src="images/braintree2.jpg" style="width: 100%; height:100%">
 
 ---
+---
 
 # Trois Rapport de Cas:
 
@@ -208,7 +209,7 @@ Ces trois cas soulignent le potentiel de la psilocybine comme traitement complé
 -->
 
 ---
-
+---
 # Une étude controllée:
 Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
 (Safety, Tolerability, and Efficacy of Psilocybin in 9 Patients With Obsessive-Compulsive Disorder) Nov. 2006
@@ -234,12 +235,13 @@ Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a comme
 -->
 
 ---
+---
 
 # Procédure:
 
 <span></span>
-- 9 patients {v-click}
 - Durée des sessions : environ 8 heures {v-click}
+- 9 patients {v-click}
 - Environnement contrôlé {v-click}
 - Lunettes opaques et musique standardisée pour favoriser l'introspection {v-click}
 - Interactions sociales limitées {v-click}
@@ -260,7 +262,7 @@ font-size: 0.8em;
 
 <!--
 
-Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. Les 9 patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
+[click] Chaque session durait environ 8 heures et se déroulait dans un environnement contrôlé. [click:2] Les 9 patients étaient confortablement installés et équipés de lunettes opaques pour restreindre les stimuli visuels [click]. De la musique standardisée était diffusée pour accompagner l'expérience. Pendant la session, les interactions sociales étaient limitées pour favoriser l'introspection.
 
  Les patients étaient constamment surveillés par des accompagnateurs formés, qui étaient présents pour offrir un soutien émotionnel en cas de besoin. Après chaque session, les patients étaient admis dans une unité psychiatrique pour une nuit d'observation afin de garantir leur sécurité et de surveiller toute réaction post-administration.
 
@@ -272,6 +274,7 @@ Ce processus de familiarisation avec le personnel a contribué à renforcer la r
 
 -->
 
+---
 ---
 
 # Résultats: 
@@ -293,3 +296,14 @@ Deux participants ont également constaté une amélioration symptomatique persi
 
 Il est possible que la dose ne soit pas si importante
 -->
+
+---
+---
+
+# Une enquête en ligne
+
+
+---
+---
+
+# La suite ?
