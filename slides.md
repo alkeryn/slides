@@ -197,7 +197,7 @@ image: "/images/prozac.jpg"
 
 Principalement les SSRI / ISRS
 
-- Les ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) ou SSRI (Selective Serotonin Reuptake Inhibitors) en anglais sont souvent le traitement le plus utilisé. {v-click}
+- Les ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine) ou SSRI (Selective Serotonin Reuptake Inhibitors) en anglais sont souvent le traitement le plus utilisé (prozac par example). {v-click}
 - Leur mécanisme d'action, comme leur nom l'indique, vise le système sérotoninergique. {v-click}
 - Le même traitement est également souvent utilisé contre la dépréssion. {v-click}
 - Sauf que les doses sont 1.5 à 2x plus élevés pour traiter les TOCs que la dépréssion. {v-click}
@@ -208,20 +208,32 @@ grid-template-columns: 40% auto;
 }
 </style>
 
+<!--
+[click:2] un example connus des ISRS est le "prozac"
+-->
+
 ---
 layout: two-cols
 image: "/images/braintree.jpg"
 ---
 
 # Un paralèle intéréssant ?
+<v-click>
+
 - Le méchanisme d'action principal des psychédélique classiques (Psilocybine, LSD, DMT, Méscaline) 
 repose sur leur interaction avec le système sérotoninergique du cerveau.\
 Plus précisément, ces substances agissent en se liant principalement aux récepteurs 5-HT2A de la sérotonine.
+
+</v-click>
 
 
 :: right ::
 <img src="/images/braintree2.jpg" style="width: 100%; height:100%">
 
+<!--
+Alors du coup je voulais aussi souligner un paralèle que je trouve intéréssant
+[click]
+-->
 ---
 layout: cover
 background: "/images/psychelandscape.jpg"
@@ -258,6 +270,8 @@ background: "/images/psychelandscape.jpg"
 </v-click>
 
 <!--
+Pour commencer j'aimerai présenté trois rapport de cas, dont un dans un environment controlé
+
 [click] Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, 
 le syndrome de tourette et des épisodes dépréssifs majeurs ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
 
@@ -266,6 +280,12 @@ le syndrome de tourette et des épisodes dépréssifs majeurs ainsi que des cris
 [click] Dans le 3ème cas Le patient décrit est un homme de 38 ans confronté depuis l'enfance à une anxiété sévère et des pensées intrusives, qui ont évolué en un TOC invalidant. Malgré l'essai de multiples traitements conventionnels sans succès, il a trouvé un soulagement significatif dans l'auto-administration de psilocybine, un hallucinogène sérotoninergique, toutes les trois semaines. Cette approche non conventionnelle a conduit à une réduction durable des symptômes sans effets secondaires notables.
 
 [click] Ces trois cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, [click] en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
+
+[click] l'étude souligne aussi un potentiel pour d'autre pathologies
+
+[click] Ici vous avez les sources.
+
+Dans le cas de Daniel, je voulais également montrer ces deux graphiques présent dans l'étude
 -->
 
 ---
@@ -274,11 +294,18 @@ image: "/images/graphs/red1.png"
 backgroundSize: contain
 ---
 
+<!--
+réduction des symptomes au cours du temps
+-->
+
 ---
 layout: image
 image: "/images/graphs/red2.png"
 backgroundSize: contain
 ---
+<!--
+A quel point les symptomes sont handicapant
+-->
 
 ---
 ---
@@ -517,3 +544,8 @@ background: "/images/landscape.jpg"
 ---
 
 # Merci !
+
+<!--
+Toc toc film
+cas personel
+-->
