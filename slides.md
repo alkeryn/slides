@@ -198,7 +198,7 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 </v-click>
 
 <!--
-Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majors ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
+Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majeurs ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
 
 Dans le deuxième cas, présenté dans le Journal of Psychoactive Drugs, un patient souffrant de TOC a expérimenté une réduction cliniquement significative de ses symptômes suite à la consommation chronique de champignons contenant de la psilocybine. Cette amélioration s'est maintenue sur le long terme, suggérant un potentiel thérapeutique de la psilocybine et d'autres composés psychoactifs présents dans les champignons pour les cas de TOC résistants aux traitements habituels.
 
@@ -206,6 +206,7 @@ Dans le 3ème cas Le patient décrit est un homme de 38 ans confronté depuis l'
 
 Ces trois cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
 -->
+
 ---
 
 # Une étude controllée:
