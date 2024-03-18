@@ -221,7 +221,7 @@ Ces trois cas soulignent le potentiel de la psilocybine comme traitement complé
 ---
 ---
 # Une étude controllée:
-Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
+Sécurité, tolérabilité et efficacité de la psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
 (Safety, Tolerability, and Efficacy of Psilocybin in 9 Patients With Obsessive-Compulsive Disorder) Nov. 2006
 
 <v-click>
@@ -346,3 +346,16 @@ Une corrélation a été observée entre l'intensité des effets aigus, la dose 
 - une sur dosage répétés (2 doses)
 - 30 participants
 - en cours
+- les participants du groupe placebo de la deuxième études ont la possibilité de revenir pour recevoir une dose (0.25mg/kg)
+
+<p align="right">
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10803438/ <br>
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10166878/
+</p>
+
+<!--
+Pour finir, j'aimerai présenter deux protocoles pour deux futures études
+Ces deux études explorent l'utilisation de la psilocybine, dans le traitement des trouble TOCs résistant aux thérapies traditionnelles. La première étude teste deux doses de psilocybine avec un soutien psychologique non-directif sur 30 participants, envisageant une augmentation de dose basée sur la réponse clinique, et vise à évaluer la sécurité, la tolérabilité et l'efficacité sur les symptômes du TOC, ainsi que les mécanismes psychologiques impliqués. La deuxième étude, également avec 30 participants, utilise un design randomisé, double aveugle, contrôlé par placebo pour examiner l'impact d'une seule dose unique de psilocybine sur les symptômes du TOC, intégrant un suivi de 12 semaines et des évaluations par des évaluateurs indépendants. Cette recherche comprend également l'analyse des données d'imagerie cérébrale pour explorer les effets neuronaux. Les deux études représentent des tentatives importantes pour comprendre et potentiellement offrir de nouvelles voies de traitement pour le TOC réfractaire, mettant en lumière la psilocybine comme option thérapeutique prometteuse avec des implications pour les mécanismes de traitement sous-jacents et la pratique clinique future.
+
+Dans la deuxième étude participants assignés au groupe placebo ont la possibilité de revenir pour recevoir une dose à étiquette ouverte de psilocybine (0.25mg/kg).
+-->
