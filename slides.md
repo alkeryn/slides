@@ -343,7 +343,9 @@ backgroundSize: contain
 ---
 <!--
 utilisateurs déclarant la substance comme la plus impactante
+
 utilisateurs déclarent une autre substance come la plus impactante
+
 utilisateurs déclarant un impact pour aucune substance
 -->
 ---
@@ -375,6 +377,7 @@ A: Fréquence de Consomation
 B: Proporsion d'utilisateur dont la diminution des symptomes persiste
 C: corélation entre la probabilité de réitérer l'experience et l'amélioration des symptomes;
 les utilisateurs dont les symptômes s'améliorent on plus tendance à réitérer l'éxperience.
+D: Répartition estimée de la fréquence des prises ultérieures selon la persistance de l'amélioration des TOC, telle que modélisée par une régression ordinale
 -->
 
 ---
