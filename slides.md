@@ -182,6 +182,7 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 # Une étude controllée:
 Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
+(Safety, Tolerability, and Efficacy of Psilocybin in 9 Patients With Obsessive-Compulsive Disorder) Nov. 2006
 
 <v-click>
 
