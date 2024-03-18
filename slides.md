@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: "./images/trees.jpg"
+background: "/images/trees.jpg"
 # some information about your slides, markdown enabled
 title: Les psychédéliques, un traitment possible pour les tocs ?
 info: |
@@ -30,7 +30,7 @@ mdc: true
 
 ---
 layout: image-right
-image: "./images/pencils.jpg"
+image: "/images/pencils.jpg"
 ---
 
 # Qu'est ce que sont les TOCs ?
@@ -139,7 +139,7 @@ ul {
 
 ---
 layout: image-left
-image: "./images/prozac.jpg"
+image: "/images/prozac.jpg"
 ---
 
 # Dans le cas médicamenteux:
@@ -159,14 +159,14 @@ grid-template-columns: 40% auto;
 
 ---
 layout: cover
-background: "./images/psychelandscape.jpg"
+background: "/images/psychelandscape.jpg"
 ---
 
 # Les psychédéliques, un nouveau traitement ?
 
 ---
 layout: two-cols
-image: "./images/braintree.jpg"
+image: "/images/braintree.jpg"
 ---
 
 # Un paralèle intéréssant ?
@@ -176,7 +176,7 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 
 :: right ::
-<img src="images/braintree2.jpg" style="width: 100%; height:100%">
+<img src="/images/braintree2.jpg" style="width: 100%; height:100%">
 
 ---
 ---
@@ -210,13 +210,13 @@ Ces trois cas soulignent le potentiel de la psilocybine comme traitement complé
 
 ---
 layout: image
-image: "images/graphs/red1.png"
+image: "/images/graphs/red1.png"
 backgroundSize: contain
 ---
 
 ---
 layout: image
-image: "images/graphs/red2.png"
+image: "/images/graphs/red2.png"
 backgroundSize: contain
 ---
 
@@ -338,7 +338,7 @@ Une corrélation a été observée entre l'intensité des effets aigus, la dose 
 
 ---
 layout: image
-image: "images/graphs/survey0.png"
+image: "/images/graphs/survey0.png"
 backgroundSize: contain
 ---
 <!--
@@ -348,7 +348,7 @@ utilisateurs déclarant un impact pour aucune substance
 -->
 ---
 layout: image
-image: "images/graphs/survey1.png"
+image: "/images/graphs/survey1.png"
 backgroundSize: contain
 ---
 <!--
@@ -358,7 +358,7 @@ C: dose et effets
 -->
 ---
 layout: image
-image: "images/graphs/survey2.png"
+image: "/images/graphs/survey2.png"
 backgroundSize: contain
 ---
 <!--
@@ -367,7 +367,7 @@ B: Agréabilitée de l'éxperience
 -->
 ---
 layout: image
-image: "images/graphs/survey3.png"
+image: "/images/graphs/survey3.png"
 backgroundSize: contain
 ---
 <!--
