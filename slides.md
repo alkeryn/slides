@@ -337,3 +337,12 @@ Une corrélation a été observée entre l'intensité des effets aigus, la dose 
 ---
 
 # La suite ?
+
+## deux études en doubles aveugles
+
+- "Sécurité, tolérabilité, et effets cliniques et neuronaux d'une dose unique de psilocybine dans le trouble obsessionnel-compulsif : protocole pour un essai randomisé, en double aveugle, contrôlé par placebo, sans croisement."
+- "Sécurité, faisabilité, tolérance et effets cliniques du dosage répété de psilocybine combiné à un soutien non directif dans le traitement du trouble obsessionnel-compulsif : protocole pour un essai randomisé, contrôlé par liste d'attente avec évaluations en aveugle."
+- une sur une dose
+- une sur dosage répétés (2 doses)
+- 30 participants
+- en cours
