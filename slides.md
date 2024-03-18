@@ -26,7 +26,7 @@ mdc: true
 
 # Les psychédéliques, un traitment possible pour les tocs?
 
-(troubles obsessionel compulsifs)
+(Troubles obsessionel compulsifs)
 
 ---
 layout: image-right
@@ -47,7 +47,7 @@ mdc: true
 # Quelques examples
 
 - Lavage excessif des mains {v-click}
-    - vouloir se laver les mains à chaques fois que l'on touche quelque chose {v-click}
+    - vouloir se laver les mains à chaques fois que l'on touche quelque chose
 - Vérification répétée {v-click}
     - Vérifier plusieurs fois si la porte est bien verrouillée ou si le gaz est éteint.
 - Comptage compulsif {v-click}
@@ -70,5 +70,40 @@ ul {
 </style>
 
 ---
+layout: two-cols
 ---
----
+
+# Pourquoi est-ce un problème ?
+
+- Anxiété et stress accrus {v-click}
+    - Les obsessions et compulsions peuvent générer beaucoup d'anxiété.
+- Perte de temps {v-click}
+    - Les rituels compulsifs peuvent prendre beaucoup de temps chaque jour.
+- Isolement social {v-click}
+    - La honte ou la peur de l'incompréhension peut mener à l'isolement.
+- Problèmes relationnels {v-click}
+    - Les TOCs peuvent peser sur les relations personnelles et familiales.
+
+:: right ::
+
+- Difficultés au travail ou à l'école {v-click}
+    - La concentration et la performance peuvent être affectées.
+- Dommages physiques {v-click}
+    - Par exemple, le lavage excessif des mains peut causer des irritations cutanées.
+- Problèmes financiers {v-click}
+    - Certaines compulsions, comme l'achat compulsif, peuvent mener à des difficultés financières.
+- Fatigue {v-click}
+    - La gestion constante des obsessions et compulsions peut être épuisante.
+- Dépression {v-click}
+    - Les luttes constantes avec les TOCs peuvent contribuer à la dépression.
+- Sentiment de perte de contrôle {v-click}
+    - Le sentiment d'être contrôlé par les rituels plutôt que d'avoir le contrôle sur sa propre vie.
+<style>
+ul {
+    font-size: 0.9em;
+}
+.slidev-page {
+margin-top: 0.5em;
+padding-top: 0.5em;
+}
+</style>
