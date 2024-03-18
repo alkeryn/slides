@@ -314,7 +314,6 @@ Il est possible que la dose ne soit pas si importante
 - Persistance de l'effet thérapeutique de quelques semaines à plusieurs mois
 - Aucun facteur prédictif clair pour la persistance de l'effet.
 - Occurrence et fréquence des prises ultérieures limitées et prédites par l'efficacité et la persistance de l'effet
-
 - Fréquence des prises ultérieures influencée par l'ampleur et la durée de l'effet thérapeutique.
 
 
@@ -327,7 +326,7 @@ Pour mieux comprendre comment les psychédéliques peuvent aider avec le trouble
 Avec 174 réponses, l'étude s'est penchée spécifiquement sur les effets des psychédéliques traditionnels
 elle a mis en évidence que, parmi les drogues psychoactives, seuls les psychédéliques classiques ont été signalés comme efficaces dans la réduction des symptômes du TOC
 
-Plus précisément, une corrélation a été observée entre l'intensité des effets aigus, la dose administrée, et la réduction des symptômes, avec des effets thérapeutiques dont la persistance variait grandement, allant de quelques semaines à plusieurs mois. L'ampleur et la durée de ces effets thérapeutiques semblaient influencer la décision des participants de poursuivre la prise de ces substances. Ces observations suggèrent un potentiel significatif des psychédéliques classiques dans le traitement du TOC, soulignant la nécessité de poursuivre les recherches.
+Une corrélation a été observée entre l'intensité des effets aigus, la dose administrée, et la réduction des symptômes, avec des effets thérapeutiques dont la persistance variait grandement, allant de quelques semaines à plusieurs mois. L'ampleur et la durée de ces effets thérapeutiques semblaient influencer la décision des participants de poursuivre la prise de ces substances. Ces observations suggèrent un potentiel significatif des psychédéliques classiques dans le traitement du TOC, soulignant la nécessité de poursuivre les recherches.
 -->
 ---
 ---
