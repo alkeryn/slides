@@ -213,12 +213,20 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 # Trois Rapport de Cas:
 
-- Cas 1 (Daniel) : Soulagement complet des symptômes du TOC sévère après un traitement unique. {v-click}
-- Cas 2 : Réduction durable des symptômes après consommation de champignons à psilocybine. {v-click}
-- Cas 3 : réduction durable des symptômes sans effets secondaires {v-click} 
-- Impact de la Psilocybine : Amélioration des symptômes du TOC. {v-click}
-- Importance : Potentiel pour les cas résistants aux traitements traditionnels. {v-click}
-- Potentiel pour d'autre pathologies {v-click}
+<v-clicks>
+
+- Cas 1 (Daniel) : Soulagement complet des symptômes du TOC sévère après un traitement unique.
+    - TOCs, syndrome de tourette, épisodes dépréssifs majeurs, crises de paniques
+    - Plusieurs traitements ont échoués
+    - 12 semaines suite au traitement sous psilocybine, plus de symptomes
+- Cas 2 : Réduction durable des symptômes après consommation de champignons à psilocybine.
+- Cas 3 : réduction durable des symptômes sans effets secondaires
+    - Anxiété sévère depuis l'enfance
+- Impact de la Psilocybine : Amélioration des symptômes du TOC.
+- Importance : Potentiel traitement pour les cas résistants aux traitements traditionnels.
+- Potentiel pour d'autre pathologies
+
+</v-clicks>
 
 <v-click>
 <p align="right">
@@ -229,13 +237,14 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 </v-click>
 
 <!--
-Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majeurs ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
+[click] Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, 
+le syndrome de tourette et des épisodes dépréssifs majeurs ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
 
-Dans le deuxième cas, présenté dans le Journal of Psychoactive Drugs, un patient souffrant de TOC a expérimenté une réduction cliniquement significative de ses symptômes suite à la consommation chronique de champignons contenant de la psilocybine. Cette amélioration s'est maintenue sur le long terme, suggérant un potentiel thérapeutique de la psilocybine et d'autres composés psychoactifs présents dans les champignons pour les cas de TOC résistants aux traitements habituels.
+[click] Dans le deuxième cas, présenté dans le Journal of Psychoactive Drugs, un patient souffrant de TOC a expérimenté une réduction cliniquement significative de ses symptômes suite à la consommation chronique de champignons contenant de la psilocybine. Cette amélioration s'est maintenue sur le long terme, suggérant un potentiel thérapeutique de la psilocybine et d'autres composés psychoactifs présents dans les champignons pour les cas de TOC résistants aux traitements habituels.
 
-Dans le 3ème cas Le patient décrit est un homme de 38 ans confronté depuis l'enfance à une anxiété sévère et des pensées intrusives, qui ont évolué en un TOC invalidant. Malgré l'essai de multiples traitements conventionnels sans succès, il a trouvé un soulagement significatif dans l'auto-administration de psilocybine, un hallucinogène sérotoninergique, toutes les trois semaines. Cette approche non conventionnelle a conduit à une réduction durable des symptômes sans effets secondaires notables.
+[click] Dans le 3ème cas Le patient décrit est un homme de 38 ans confronté depuis l'enfance à une anxiété sévère et des pensées intrusives, qui ont évolué en un TOC invalidant. Malgré l'essai de multiples traitements conventionnels sans succès, il a trouvé un soulagement significatif dans l'auto-administration de psilocybine, un hallucinogène sérotoninergique, toutes les trois semaines. Cette approche non conventionnelle a conduit à une réduction durable des symptômes sans effets secondaires notables.
 
-Ces trois cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
+[click] Ces trois cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, [click] en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
 -->
 
 ---
@@ -272,7 +281,7 @@ Neuf sujets atteints de TOC, définis par le DSM-IV, sans autre trouble psychiat
 </v-click>
 
 <!--
-[click]
+[click:2]
 Par example Un homme de 34 ans souffrait de TOC depuis l'adolescence. Il a commencé à utiliser des champignons psilocybes à 18 ans et a remarqué que pendant les intoxications, ses symptômes de TOC disparaissaient, une utilisation répétée a entraîné une tolérance aux effets psychédéliques, mais il a continué à ressentir un soulagement de ses symptômes malgré l'absence d'un "high".
 -->
 
