@@ -423,3 +423,12 @@ Dans la deuxième étude participants assignés au groupe placebo ont la possibi
 [click:2] Les effets secondaires des psychédéliques sont négligeable surtout lorsque comparé aux traitements actuels
 [click] Un traitement qui à du potentiel pour aider des patiens qui ont déjà tout essayés en vain
 -->
+
+
+---
+layout: cover
+class: text-center
+background: "/images/pencils.jpg"
+---
+
+# Merci !
