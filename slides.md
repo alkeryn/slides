@@ -180,6 +180,23 @@ Plus précisément, ces substances agissent en se liant principalement aux réce
 
 ---
 
+# Deux Rapport de Cas:
+
+- Cas 1 (Daniel) : Soulagement complet des symptômes du TOC sévère après un traitement unique. {v-click}
+- Cas 2 : Réduction durable des symptômes après consommation de champignons à psilocybine. {v-click}
+- Impact de la Psilocybine : Amélioration des symptômes du TOC. {v-click}
+- Importance : Potentiel pour les cas résistants aux traitements traditionnels. {v-click}
+- Potentiel pour d'autre pathologies {v-click}
+
+<!--
+Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majors ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
+
+Dans le deuxième cas, présenté dans le Journal of Psychoactive Drugs, un patient souffrant de TOC a expérimenté une réduction cliniquement significative de ses symptômes suite à la consommation chronique de champignons contenant de la psilocybine. Cette amélioration s'est maintenue sur le long terme, suggérant un potentiel thérapeutique de la psilocybine et d'autres composés psychoactifs présents dans les champignons pour les cas de TOC résistants aux traitements habituels.
+
+Ces deux cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
+-->
+---
+
 # Une étude controllée:
 Sécurité, tolérabilité et efficacité du psilocybine chez 9 patients atteints de trouble obsessionnel-compulsif.
 (Safety, Tolerability, and Efficacy of Psilocybin in 9 Patients With Obsessive-Compulsive Disorder) Nov. 2006
@@ -258,21 +275,6 @@ Dans un environnement clinique contrôlé, le psilocybine a été utilisé en to
 
 <!--
 Deux participants ont également constaté une amélioration symptomatique persistante pendant la semaine suivant les tests. Bien qu'il y ait eu une différence numérique dans les scores de base entre le premier test et les autres moments de test, il n'y avait pas d'effet d'ordre statistiquement significatif. Un sujet a même atteint une rémission à long terme après les quatre sessions de test, confirmée par un suivi six mois plus tard.
--->
 
----
-
-# Deux Rapport de Cas:
-
-- Impact de la Psilocybine : Amélioration des symptômes du TOC. {v-click}
-- Cas 1 (Daniel) : Soulagement complet des symptômes du TOC sévère après un traitement unique. {v-click}
-- Cas 2 : Réduction durable des symptômes après consommation de champignons à psilocybine. {v-click}
-- Importance : Potentiel pour les cas résistants aux traitements traditionnels. {v-click}
-
-<!--
-Dans le premier cas Daniel, un homme de 33 ans avec un TOC sévère, le syndrome de tourette et des épisodes dépréssifs majors ainsi que des crises de paniques, qui, malgré plusieurs traitements, n'avait jamais trouvé de soulagement significatif. Son score sur l'échelle Y-BOCS était de 24, indiquant un TOC sévère. Après un traitement unique à la psilocybine, Daniel a vécu une gamme d'émotions profondes et a décrit une sensation de renaissance. Remarquablement, 12 semaines après le traitement, son score Y-BOCS a chuté à 0, indiquant une absence de symptômes de TOC. Il percevait désormais ses symptômes de TOC comme 'vestigiaux', marquant une transformation profonde dans sa vie.
-
-Dans le deuxième cas, présenté dans le Journal of Psychoactive Drugs, un patient souffrant de TOC a expérimenté une réduction cliniquement significative de ses symptômes suite à la consommation chronique de champignons contenant de la psilocybine. Cette amélioration s'est maintenue sur le long terme, suggérant un potentiel thérapeutique de la psilocybine et d'autres composés psychoactifs présents dans les champignons pour les cas de TOC résistants aux traitements habituels.
-
-Ces deux cas soulignent le potentiel de la psilocybine comme traitement complémentaire pour les individus souffrant de TOC, en particulier pour ceux qui ne répondent pas aux approches thérapeutiques conventionnelles. Toutefois, ces observations préliminaires appellent à une recherche plus approfondie pour confirmer l'efficacité et la sécurité de la psilocybine dans le cadre d'un traitement clinique du TOC.
+Il est possible que la dose ne soit pas si importante
 -->
