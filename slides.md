@@ -353,20 +353,29 @@ backgroundSize: contain
 ---
 <!--
 A: pourcentage des participants affirmant conaitre la dose
-B: dose en psilocybine
-C: dose en LSD
-D: dose et effets
+B: dose en psilocybine et LSD
+C: dose et effets
 -->
 ---
 layout: image
 image: "images/graphs/survey2.png"
 backgroundSize: contain
 ---
+<!--
+A: Corélation entre l'intensité de l'éxperience et l'amélioration des symptômes
+B: Agréabilitée de l'éxperience
+-->
 ---
 layout: image
 image: "images/graphs/survey3.png"
 backgroundSize: contain
 ---
+<!--
+A: Fréquence de Consomation
+B: Proporsion d'utilisateur dont la diminution des symptomes persiste
+C: corélation entre la probabilité de réitérer l'experience et l'amélioration des symptomes;
+les utilisateurs dont les symptômes s'améliorent on plus tendance à réitérer l'éxperience.
+-->
 
 ---
 ---
